@@ -1,5 +1,5 @@
 {
-  "name": "Bachelorette Quiz Game",
+  "name": "bachelorette-quiz-game",
   "license": "MIT",
   "engines": {
     "node": "10.15.3",
